@@ -16,3 +16,4 @@ To build, simply:
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
 
+Reference: https://www.azuredevopslabs.com/labs/azuredevops/github-integration/#task-6-adding-a-build-status-badge
